@@ -1,2 +1,2 @@
-# javascript-alorithms
+# javascript-algorithms
 Basic javascript algorithms
