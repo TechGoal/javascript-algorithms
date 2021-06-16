@@ -41,9 +41,4 @@ class Hash {
     }
 }
 
-const hashObj = new Hash(13);
-hashObj.put(4, 'Aakash');
-hashObj.put(4, 'Vyas');
-hashObj.put(1, 'Himanshu');
-
 module.exports = Hash;
